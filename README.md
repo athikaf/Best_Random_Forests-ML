@@ -24,4 +24,4 @@ This project is focussed around finding the best Random Forest through Random Se
 Dataset used: https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system
 (The dataset is 516.21MB and github only allows 100MB, so make sure you have enough memory to run this)
 
-If you have any doubts/questions or if you encounter any errors, please reach out to <a href="https://www.linkedin.com/in/athika-fatima/"> Athika Fatima </a>
+If you have any doubts/questions or if you encounter any errors, please reach out to <a href="https://www.linkedin.com/in/athika-fatima/"> Athika Fatima</a>.
